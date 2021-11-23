@@ -1,0 +1,51 @@
+id,title,all_artists,popularity,release_date,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,['The Weeknd'],92,2020-03-20,0.514,0.73,1,-5.934,1,0.00146,9.54e-05,0.0897,0.334,171.005,200040,4
+1rgnBhdG2JDFTbYkYRZAku,Dance Monkey,['Tones And I'],65,2019-05-10,0.826,0.593,6,-6.401,0,0.688,0.000161,0.17,0.541,98.083,209755,4
+0nbXyq5TXYPCO7pr3N8S4I,The Box,['Roddy Ricch'],83,2019-12-06,0.896,0.586,10,-6.687,0,0.104,0.0,0.79,0.642,116.971,196653,4
+2Wo6QQD1KMDWeFkkjLqwx5,Roses - Imanbek Remix,"['SAINt JHN', 'Imanbek']",62,2019-09-13,0.785,0.721,8,-5.457,1,0.0149,0.00432,0.285,0.894,121.962,176219,4
+3PfIrDoz19wz7qK7tYeu62,Don't Start Now,['Dua Lipa'],82,2020-03-27,0.793,0.793,11,-4.521,0,0.0123,0.0,0.0951,0.679,123.95,183290,4
+7ytR5pFWmSjzHJIeQkgog4,ROCKSTAR (feat. Roddy Ricch),"['DaBaby', 'Roddy Ricch']",84,2020-04-17,0.746,0.69,11,-7.956,1,0.247,0.0,0.101,0.497,89.977,181733,4
+6UelLqGlWMcVH1E5c4H7lY,Watermelon Sugar,['Harry Styles'],89,2019-12-13,0.548,0.816,0,-4.209,1,0.122,0.0,0.335,0.557,95.39,174000,4
+7eJMfftS33KTjuF7lTsMCx,death bed (coffee for your head),"['Powfu', 'beabadoobee']",85,2020-02-08,0.726,0.431,8,-8.765,0,0.731,0.0,0.696,0.348,144.026,173333,4
+2rRJrJEo19S2J82BDsQ3F7,Falling,['Trevor Daniel'],36,2020-03-26,0.784,0.43,10,-8.756,0,0.123,0.0,0.0887,0.236,127.087,159382,4
+7qEHsqek33rTcFNT9PFqLf,Someone You Loved,['Lewis Capaldi'],87,2019-05-17,0.501,0.405,1,-5.679,1,0.751,0.0,0.105,0.446,109.891,182161,4
+7k4t7uLgtOxPwTpFmtJNTY,Tusa,"['KAROL G', 'Nicki Minaj']",80,2019-11-07,0.803,0.715,2,-3.28,1,0.295,0.000134,0.0574,0.574,101.085,200960,4
+696DnlkuDOXcMAnKlTgXXK,ROXANNE,['Arizona Zervas'],81,2019-10-10,0.621,0.601,6,-5.616,0,0.0522,0.0,0.46,0.457,116.735,163636,5
+21jGcNKet2qwijlDFuPiPb,Circles,['Post Malone'],87,2019-09-06,0.695,0.762,0,-3.497,1,0.192,0.00244,0.0863,0.553,120.042,215280,4
+22LAwLoDA5b4AaGSkg6bKW,Blueberry Faygo,['Lil Mosey'],78,2020-02-06,0.774,0.554,0,-7.909,1,0.207,0.0,0.132,0.349,99.034,162547,4
+4umIPjkehX1r7uhmGvXiSV,Intentions (feat. Quavo),"['Justin Bieber', 'Quavo']",77,2020-02-14,0.806,0.546,9,-6.637,1,0.3,0.0,0.102,0.874,147.986,212867,4
+466cKvZn1j45IpxDdYZqdA,Toosie Slide,['Drake'],72,2020-05-01,0.83,0.49,1,-8.82,0,0.289,3.04e-06,0.113,0.845,81.604,247059,4
+2gMXnyrvIjhVBUZwvLZDMP,Before You Go,['Lewis Capaldi'],84,2019-11-22,0.459,0.575,3,-4.858,1,0.604,0.0,0.0885,0.183,111.881,215107,4
+3Dv1eDb0MEgF93GpLXlucZ,Say So,['Doja Cat'],82,2019-11-07,0.787,0.673,11,-4.583,0,0.264,3.35e-06,0.0904,0.779,110.962,237893,4
+2b8fOow8UzyDFAE27YhOZM,Memories,['Maroon 5'],38,2019-09-20,0.764,0.32,11,-7.209,1,0.837,0.0,0.0822,0.575,91.019,189486,4
+1K5KBOgreBi5fkEHvg5ap3,Life Is Good (feat. Drake),"['Future', 'Drake']",74,2020-05-15,0.795,0.574,2,-6.903,0,0.067,0.0,0.15,0.537,142.053,237918,4
+1xQ6trAsedVPCdbtDAmk0c,Savage Love (Laxed - Siren Beat),"['Jawsh 685', 'Jason Derulo']",80,2020-06-11,0.767,0.481,0,-8.52,0,0.234,0.0,0.269,0.761,150.076,171375,4
+3jjujdWJ72nww5eGnfs2E7,Adore You,['Harry Styles'],84,2019-12-13,0.676,0.771,8,-3.675,1,0.0237,7e-06,0.102,0.569,99.048,207133,4
+3H7ihDc1dqLriiWXwsc2po,Breaking Me,"['Topic', 'A7S']",83,2019-12-19,0.789,0.72,8,-5.652,0,0.223,0.0,0.129,0.664,122.031,166794,4
+3tjFYV6RSFtuktYl3ZtYcq,Mood (feat. iann dior),"['24kGoldn', 'iann dior']",22,2020-07-24,0.7,0.722,7,-3.558,0,0.221,0.0,0.272,0.756,90.989,140526,4
+3ZCTVFBt2Brf31RLEnCkWJ,everything i wanted,['Billie Eilish'],82,2019-11-13,0.704,0.225,6,-14.454,0,0.902,0.657,0.106,0.243,120.006,245426,4
+6v3KW9xbzN5yKLt9YKDYA2,Señorita,"['Shawn Mendes', 'Camila Cabello']",79,2019-06-19,0.759,0.548,9,-6.049,0,0.0392,0.0,0.0828,0.749,116.967,190800,4
+2Fxmhks0bxGSBdJ92vM42m,bad guy,['Billie Eilish'],85,2019-03-29,0.701,0.425,7,-10.965,1,0.328,0.13,0.1,0.562,135.128,194088,4
+4Oun2ylbjFKMPTiaSbbCih,WAP (feat. Megan Thee Stallion),"['Cardi B', 'Megan Thee Stallion']",83,2020-08-07,0.935,0.454,1,-7.509,1,0.0194,0.0,0.0824,0.357,133.073,187541,4
+1Cv1YLb4q0RzL6pybtaMLo,Sunday Best,['Surfaces'],79,2019-01-06,0.878,0.525,5,-6.832,1,0.183,0.0,0.0714,0.694,112.022,158571,4
+7FIWs0pqAYbP91WWM0vlTQ,Godzilla (feat. Juice WRLD),"['Eminem', 'Juice WRLD']",84,2020-01-17,0.808,0.745,10,-5.26,0,0.145,0.0,0.292,0.829,165.995,210800,4
+16wAOAZ2OkqoIDN7TpChjR,Yummy,['Justin Bieber'],72,2020-02-14,0.676,0.506,9,-6.652,0,0.345,0.0,0.118,0.497,145.842,208520,4
+017PF4Q3l4DBUiWoXk4OWT,Break My Heart,['Dua Lipa'],79,2020-03-27,0.73,0.729,4,-3.434,0,0.167,1.39e-06,0.349,0.467,113.011,221820,4
+0t1kP63rueHleOhQkYSXFY,Dynamite,['BTS'],76,2020-08-28,0.746,0.765,6,-4.41,0,0.0112,0.0,0.0936,0.737,114.044,199054,4
+3GZoWLVbmxcBys6g0DLFLf,Supalonely (feat. Gus Dapperton),"['BENEE', 'Gus Dapperton']",64,2020-11-13,0.862,0.631,7,-4.746,1,0.291,0.000209,0.123,0.841,128.978,223488,4
+62aP9fBQKYKxi7PDXwcUAS,ily (i love you baby) (feat. Emilee),"['Surf Mesa', 'Emilee']",80,2019-11-26,0.674,0.774,11,-7.567,0,0.0686,0.00188,0.393,0.33,112.05,176547,4
+7ju97lgwC2rKQ6wwsf9no9,Rain On Me (with Ariana Grande),"['Lady Gaga', 'Ariana Grande']",77,2020-05-29,0.672,0.855,9,-3.764,1,0.021,0.0,0.323,0.646,123.056,182200,4
+3eekarcy7kvN4yt5ZFzltW,HIGHEST IN THE ROOM,['Travis Scott'],84,2019-10-04,0.598,0.427,7,-8.764,0,0.0546,5.83e-06,0.21,0.0605,76.469,175721,4
+0RiRZpuVRbi7oqRdSMwhQY,Sunflower - Spider-Man: Into the Spider-Verse,"['Post Malone', 'Swae Lee']",80,2019-09-06,0.755,0.522,2,-4.368,1,0.533,0.0,0.0685,0.925,89.96,157560,4
+1yoMvmasuxZfqHEipJhRbp,Hawái,['Maluma'],79,2020-08-21,0.783,0.727,6,-3.454,0,0.185,2.46e-05,0.0626,0.558,180.067,199112,4
+2tnVG71enUj33Ic2nFN6kZ,Ride It,['Regard'],83,2019-07-26,0.88,0.751,7,-4.258,0,0.177,6.43e-05,0.106,0.884,117.948,157606,4
+6gBFPUFcJLzWGx4lenP6h2,goosebumps,['Travis Scott'],86,2016-09-16,0.841,0.728,7,-3.37,1,0.0847,0.0,0.149,0.43,130.049,243837,4
+4NCsrTzgVfsDo8nWyP8PPc,RITMO (Bad Boys For Life),"['Black Eyed Peas', 'J Balvin']",45,2020-06-18,0.723,0.704,10,-7.088,0,0.0259,0.00109,0.792,0.684,105.095,214935,4
+39Yp9wwQiSRIDOvrVg7mbk,THE SCOTTS,"['THE SCOTTS', 'Travis Scott', 'Kid Cudi']",79,2020-04-24,0.716,0.537,0,-7.648,0,0.233,0.0,0.157,0.28,129.979,165978,4
+2DEZmgHKAvm41k4J3R2E9Y,Safaera,"['Bad Bunny', 'Jowell & Randy', 'Ñengo Flow']",79,2020-02-29,0.607,0.829,2,-4.074,1,0.0103,0.0,0.107,0.685,96.172,295177,4
+0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),"['Billie Eilish', 'Khalid']",87,2018-04-19,0.351,0.296,4,-10.109,0,0.934,0.0,0.095,0.12,115.284,200186,4
+285pBltuF7vW8TeWk8hdRR,Lucid Dreams,['Juice WRLD'],85,2018-12-10,0.511,0.566,6,-7.23,0,0.349,0.0,0.34,0.218,83.903,239836,4
+4HBZA5flZLE435QTztThqH,Stuck with U (with Justin Bieber),"['Ariana Grande', 'Justin Bieber']",84,2020-05-08,0.597,0.45,8,-6.658,1,0.223,0.0,0.382,0.537,178.765,228482,3
+2kJwzbxV2ppxnQoYw4GLBZ,If the World Was Ending (feat. Julia Michaels),"['JP Saxe', 'Julia Michaels']",81,2019-10-17,0.464,0.473,1,-10.086,1,0.866,0.0,0.109,0.604,75.801,208687,4
+3AzjcOeAmA57TIOr9zF1ZW,Physical,['Dua Lipa'],76,2020-03-27,0.647,0.844,0,-3.756,1,0.0137,0.000658,0.102,0.746,146.967,193829,4
+2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,['Travis Scott'],84,2018-08-03,0.834,0.73,8,-3.714,1,0.00513,0.0,0.124,0.446,155.008,312820,4
