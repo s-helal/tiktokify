@@ -1,6 +1,6 @@
-# Exploration of attributes that make a popular TikTok song
-## Darya Petrov, Kevin Xu, Radhika Kulkarni, and Sameerah Helal
-### Final Term Project for STA141B: Data and Web Technologies for Data Analysis at UC Davis
+# What Makes TikTok Tick? An Exploration of Attributes that make a Popular TikTok Song
+## Final Term Project for STA141B: Data and Web Technologies for Data Analysis at UC Davis
+### Darya Petrov, Kevin Xu, Radhika Kulkarni, and Sameerah Helal
 
 *Motivation:* TikTok has been around for only a few years, but in that time has managed to capture a worldwide audience with its enticing songs and consumable content. With music being an important component of TikTok's short-form content, we want to investigate what makes music on TikTok popular to current audiences. We compared features of popular TikTok songs to popular songs in the United States to try to find out what what makes a TikTok song popular, and how that differs from mainstream music in the US.
 
