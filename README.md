@@ -1,7 +1,7 @@
 # Exploration of attributes that make a popular TikTok song
 ## Darya Petrov, Kevin Xu, Radhika Kulkarni, and Sameerah Helal
 
-* Python libraries used: requests, pandas, numpy, time, spotipy, time, SpotifyClientCredentials
+* Python libraries used: requests, pandas, numpy, counter, time, spotipy, time, SpotifyClientCredentials
 
 * This is the final term project of STA141B: Data and Web Technologies for Data Analysis at UC Davis. 
 * Motivation:
